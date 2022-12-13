@@ -55,4 +55,4 @@ To get [vscode-eslint](https://github.com/microsoft/vscode-eslint) support, we n
 
 ## Recommended Configs
 
-This plugin provides `plugin:@html-eslint/recommended`. The recommended configuration contains the rules marked ⭐ in [Rules](#Rules).
+This plugin provides `plugin:@html-eslint/recommended`. The recommended configuration contains the rules marked ⭐ in [Rules](/docs/rules).
